@@ -1,5 +1,5 @@
 from nicegui import ui
-from nicegui import ui
+
 print(dir(ui))
 
 def details(row):
